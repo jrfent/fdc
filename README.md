@@ -1,4 +1,24 @@
+#The FDC Project
+
 <strong>README</strong>
 
 <strong>FDC</strong> - simple job board for posting positions in a way that will
 rank well on search engines and make it easy for people to apply.
+
+So this project has been getting a little stale because I've been working on my [Denver Hood Cleaning](http://procohoodcleaning.com) site more than this one.  I hope to be done with it soon and get back to work on this one.
+
+FDC is built to do a few things related to job boards.
+
+<strong>The Ideal Job Site Website Design</strong>
+
+In today's financial circumstance, there is no question that jobsites are in fact among the most-visited websites there is. That is why, it is crucial that a jobsite has to personify an ideal web design that will cater to the demands of job-seekers worldwide. As it is, a work site should be simple to utilize as well as fool-proof considering that not all job hunters are proficient with using technology but are inclined to search works with the net because it contains the largest database of work info there is.
+Make essential info available. Jobseekers will value if they have the ability to access countless task listings from different business internet sites throughout the world. Under this classification, the developer ought to boost the use of the site by establishing surfing filters that will certainly aid job hunters in expanding or narrowing their work searches. Via these, jobseekers could browse inning accordance with geographical place, income, job summary and also ranking settings.
+Companies will publish their job listings on their own websites, if they have one. A suitable jobsite should have access to the work boards, business job sections, posts among government firms and also charitable companies, among others.
+Apart from the main useful features which permit the work candidate to search for works, a suitable jobsite must additionally offer them the alternative to save the job listings and also show their notes and also price the likelihood for them to apply for that task. They should also have the capacity to revisit the task if they have saved it into their account.
+Get a helpful board up there. Besides the task searches, a perfect jobsite should also have a web page or a board having info which tackles the specific job market relying on the area that is preferred by a jobseeker. If the jobseeker wants to work with the areas of Milan aside from the supplied jobs, he can also locate the most prominent jobs in that area and also which ones have a high need however reduced competition within jobseekers. This could be an useful attribute for those that are not in fact seeking certain sorts of works and also are open to different markets.
+A jobseekers' location would certainly give jobseekers the chance to be headhunted by employers and business that are searching for the best kinds of applicants. A jobseekers' location can be established in such a way where work seekers can upload their on the internet resume and also even their profile of sample jobs.
+The web style should stick to the main purpose of the site, therefore it must exude a specialist and also official ambiance to the work site. Both parties must be supplied with a certain degree of control over their accounts or work postings, allowing each side to maintain their personal privacy that will match to their needs of job or employee-searching task.
+These are the ideals of a task site that's liked by people seeking for opportunities. For sure it would certainly be loved a lot more by employers and business who only desire the convenience as well as integrity of finding employees.
+
+As it is, a job site must be simple to make use of as well as fool-proof considering that not all job applicants are experienced with utilizing modern technology but are inclined to browse works via the net due to the fact that it includes the largest database of task info there is.
+Under this category, the developer ought to improve the use of the site by establishing surfing filters that will assist task applicants in broadening or tightening their job searches. Aside from the major usable features which enable the task applicant to search for jobs, a perfect jobsite ought to likewise offer them the choice to conserve the job listings and also even suggest their notes and also rate the likelihood for them to apply for that job. Apart from the job searches, a suitable jobsite must additionally have a board or a page consisting of information which deals with the certain work market depending on the area that is preferred by a jobseeker. If the jobseeker wants to function with the areas of Milan apart from the offered jobs, he can also discover the most preferred tasks in that location and also which ones have a high need however low competitors within jobseekers.
